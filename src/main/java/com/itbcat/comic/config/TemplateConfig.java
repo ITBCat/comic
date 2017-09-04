@@ -11,7 +11,7 @@ import jetbrick.template.resolver.GlobalResolver;
 /**
  * Created by 860117030 on 2017/9/4.
  */
-@Order(1)
+@Order(2)
 @Bean
 public class TemplateConfig implements BeanProcessor {
     @Override

@@ -19,7 +19,7 @@ import java.util.Properties;
  * Created by 860117030 on 2017/9/4.
  */
 @Slf4j
-@Order(2)
+@Order(3)
 @Bean
 public class DBConfig implements BeanProcessor {
     @Override
