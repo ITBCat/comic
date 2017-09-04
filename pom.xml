@@ -36,11 +36,26 @@
       <artifactId>druid</artifactId>
       <version>1.0.29</version>
     </dependency>
-    <!-- 数据库操作 -->
+    <!-- 模板引擎 -->
+    <dependency>
+      <groupId>com.bladejava</groupId>
+      <artifactId>blade-template-jetbrick</artifactId>
+      <version>0.1.1</version>
+    </dependency>
+    <dependency>
+      <groupId>com.bladejava</groupId>
+      <artifactId>blade-validator</artifactId>
+      <version>0.0.1</version>
+    </dependency>
     <dependency>
       <groupId>com.bladejava</groupId>
       <artifactId>blade-jdbc</artifactId>
-      <version>0.1.6</version>
+      <version>0.2.2-alpha1</version>
+    </dependency>
+    <dependency>
+      <groupId>com.bladejava</groupId>
+      <artifactId>blade-patchca</artifactId>
+      <version>1.1.0</version>
     </dependency>
   </dependencies>
 

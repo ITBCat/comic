@@ -44,6 +44,15 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="Maven: com.bladejava:blade-jdbc" level="project" />
+    <orderEntry type="library" name="Maven: com.bladejava:blade-template-jetbrick:0.1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.github.subchen:jetbrick-template:2.1.5" level="project" />
+    <orderEntry type="library" name="Maven: com.github.subchen:jetbrick-commons:2.1.4" level="project" />
+    <orderEntry type="library" name="Maven: org.antlr:antlr4-runtime:4.3" level="project" />
+    <orderEntry type="library" name="Maven: org.abego.treelayout:org.abego.treelayout.core:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.antlr:antlr4-annotations:4.3" level="project" />
+    <orderEntry type="library" name="Maven: com.bladejava:blade-validator:0.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.bladejava:blade-jdbc:0.2.2-alpha1" level="project" />
+    <orderEntry type="library" name="Maven: org.sql2o:sql2o:1.6.0-RC3" level="project" />
+    <orderEntry type="library" name="Maven: com.bladejava:blade-patchca:1.1.0" level="project" />
   </component>
 </module>
